@@ -42,3 +42,4 @@ mvn exec:java -Dexec.mainClass=org.example.ChessGameETL
 
 License
 This project is licensed under the MIT License.
+```
